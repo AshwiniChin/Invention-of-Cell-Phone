@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(245, 208, 195);
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    color: crimson;
+}
+
+p{
+    font-size: 20px;
+}
+#martin{
+    width:300px;
+    height: 300px;
+    border-radius: 50%;
+}
+#phone{
+     width:200px;
+     height:400px;
+     border-radius: 30%;
+ }
+ h4{
+     color:darkblue;
+ }
